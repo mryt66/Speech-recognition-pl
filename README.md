@@ -1,2 +1,2 @@
 # Whisper-tiny-tunned
-Whisper-tiny fine tunned
+Only for purpose of google colab savings
