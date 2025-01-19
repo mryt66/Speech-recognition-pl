@@ -1,2 +1,4 @@
-# Whisper-tiny-tunned
-Only for purpose of google colab savings
+# Whisper-tunned for polish language
+For now there are 2 versions.
+- whisper-tiny-pl
+- whisper-base-pl
