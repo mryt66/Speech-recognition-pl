@@ -4,7 +4,7 @@ For now there are 2 versions of tunned models.
 - whisper-base-pl
 
 You can test models on github spaces:
-- [https://huggingface.co/spaces/marcsixtysix/whisper-tiny-pl-tunned]
+- https://huggingface.co/spaces/marcsixtysix/whisper-tiny-pl-tunned
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e55fe300-e35e-491a-87f3-a17c56e43b76" />
