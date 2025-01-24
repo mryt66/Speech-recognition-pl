@@ -7,7 +7,7 @@ For now there are 2 versions of tunned models.
 - whisper-tiny-pl
 - whisper-base-pl
 
-You can test models on github spaces:
+You can test models on huggingface spaces:
 - https://huggingface.co/spaces/marcsixtysix/whisper-tiny-pl-tunned
 - https://huggingface.co/spaces/marcsixtysix/Speech-recognition-pl-small
 
