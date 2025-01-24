@@ -12,7 +12,7 @@ You can test models on github spaces:
 
 Metrics for specified models tested on polish language from common_voice set:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e55fe300-e35e-491a-87f3-a17c56e43b76" />
+  <img src="https://github.com/user-attachments/assets/0692df3f-bc11-40fb-98dd-dce6bf377053" />
   <br />
   WER for each model
 </p>
