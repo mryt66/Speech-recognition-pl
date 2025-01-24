@@ -10,8 +10,8 @@ For now there are 2 versions of tunned models.
 You can test models on github spaces:
 - https://huggingface.co/spaces/marcsixtysix/whisper-tiny-pl-tunned
 
-Metrics for specified models tested on polish language from common_voice set:
+Metrics for specified models tested on polish language from common_voice set (over 700 validated examples):
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0692df3f-bc11-40fb-98dd-dce6bf377053" />
+  <img src="https://github.com/user-attachments/assets/cda22cf2-1a35-431f-87f9-d73c7086f0d0" />
   <br />
 </p>
