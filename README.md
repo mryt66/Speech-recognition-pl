@@ -14,5 +14,4 @@ Metrics for specified models tested on polish language from common_voice set:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0692df3f-bc11-40fb-98dd-dce6bf377053" />
   <br />
-  WER for each model
 </p>
