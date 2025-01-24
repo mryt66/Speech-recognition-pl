@@ -16,9 +16,3 @@ Metrics for specified models tested on polish language from common_voice set:
   <br />
   WER for each model
 </p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e336aa31-4078-425f-8237-8cfc634ff240" />
-  <br />
-  Inference time plot
-</p>
