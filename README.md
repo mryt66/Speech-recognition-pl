@@ -19,10 +19,4 @@ Metrics for specified models tested on polish language from common_voice set (ov
 
 
 
-Here are also tests for comparision for bigger models.
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d7d80dee-3f81-4c38-85b3-0f8ab0c46733" />
-  <br />
-</p>
-
 
